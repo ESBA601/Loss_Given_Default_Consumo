@@ -1,0 +1,5 @@
+
+# ACTUALIZAR LA INFORMACION
+
+FECHA <- as.Date("2024-04-01","%Y-%m-%d") ##AAAA-MM-DD
+
